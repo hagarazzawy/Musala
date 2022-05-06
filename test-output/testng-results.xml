@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="11" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-06T17:51:13 EET" name="Default suite" finished-at="2022-05-06T17:53:26 EET" duration-ms="133385">
+    <groups>
+    </groups>
+    <test started-at="2022-05-06T17:51:13 EET" name="Default test" finished-at="2022-05-06T17:53:26 EET" duration-ms="133385">
+      <class name="testCases.TestCases">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:51:13 EET" name="beforeMethod" finished-at="2022-05-06T17:51:16 EET" duration-ms="2991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TestCase_1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:51:17 EET" name="TestCase_1" data-provider="TestCase_1_dataProvider" finished-at="2022-05-06T17:51:45 EET" duration-ms="27386" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dina6732]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[issue]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hello, how]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[The e-mail address entered is invalid.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_1 -->
+        <test-method signature="TestCase_1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:51:45 EET" name="TestCase_1" data-provider="TestCase_1_dataProvider" finished-at="2022-05-06T17:51:50 EET" duration-ms="4996" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dina23@]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[issue]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hello, how]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[The e-mail address entered is invalid.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_1 -->
+        <test-method signature="TestCase_1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:51:50 EET" name="TestCase_1" data-provider="TestCase_1_dataProvider" finished-at="2022-05-06T17:51:59 EET" duration-ms="9361" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dina23@gmail]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[issue]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hello, how]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[The e-mail address entered is invalid.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_1 -->
+        <test-method signature="TestCase_1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:51:59 EET" name="TestCase_1" data-provider="TestCase_1_dataProvider" finished-at="2022-05-06T17:52:04 EET" duration-ms="4739" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dina23@gmailcom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[issue]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hello, how]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[The e-mail address entered is invalid.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_1 -->
+        <test-method signature="TestCase_1(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:1, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:52:04 EET" name="TestCase_1" data-provider="TestCase_1_dataProvider" finished-at="2022-05-06T17:52:09 EET" duration-ms="4518" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dina]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dina23@gmail.]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[issue]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hello, how]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[The e-mail address entered is invalid.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_1 -->
+        <test-method signature="TestCase_2(java.lang.String,java.lang.String)[pri:2, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:52:09 EET" name="TestCase_2" data-provider="TestCase_2_dataProvider" finished-at="2022-05-06T17:52:15 EET" duration-ms="6406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.musala.com/company/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.facebook.com/MusalaSoft?fref=ts]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_2 -->
+        <test-method signature="TestCase_3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:52:16 EET" name="TestCase_3" data-provider="TestCase_3_dataProvider" finished-at="2022-05-06T17:52:32 EET" duration-ms="16659" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Join Us]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.musala.com/careers/join-us/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Anywhere]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Automation QA Engineer]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[hagar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[haga@]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[11434305535]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Linkedin.com/hagar]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[thank you]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[The e-mail address entered is invalid.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_3 -->
+        <test-method signature="TestCase_3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:52:32 EET" name="TestCase_3" data-provider="TestCase_3_dataProvider" finished-at="2022-05-06T17:52:48 EET" duration-ms="15394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Join Us]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.musala.com/careers/join-us/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Anywhere]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Automation QA Engineer]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[hraga@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[11434305535]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Linkedin.com/hagar]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[thank you]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[The field is required.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_3 -->
+        <test-method signature="TestCase_3(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:3, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:52:48 EET" name="TestCase_3" data-provider="TestCase_3_dataProvider" finished-at="2022-05-06T17:53:02 EET" duration-ms="14697" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Join Us]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.musala.com/careers/join-us/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Anywhere]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Automation QA Engineer]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[hagar]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[hagar@gmail.com]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Linkedin.com/hagar]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[thank you]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[The field is required.]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_3 -->
+        <test-method signature="TestCase_4(java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:53:03 EET" name="TestCase_4" data-provider="TestCase_4_dataProvider" finished-at="2022-05-06T17:53:14 EET" duration-ms="11495" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Join Us]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.musala.com/careers/join-us/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sofia]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_4 -->
+        <test-method signature="TestCase_4(java.lang.String,java.lang.String,java.lang.String)[pri:4, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:53:14 EET" name="TestCase_4" data-provider="TestCase_4_dataProvider" finished-at="2022-05-06T17:53:25 EET" duration-ms="11032" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Join Us]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.musala.com/careers/join-us/]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Skopje]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase_4 -->
+        <test-method is-config="true" signature="AfterMethod()[pri:0, instance:testCases.TestCases@77102b91]" started-at="2022-05-06T17:53:25 EET" name="AfterMethod" finished-at="2022-05-06T17:53:26 EET" duration-ms="653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- testCases.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
