@@ -1,289 +1,289 @@
-2022-05-06 17:51:16,068 - Open browser  -INFO - Open the Excel file
-2022-05-06 17:51:18,029 - Open browser  -INFO - ============== TestCase 1 -  Start ==============
-2022-05-06 17:51:18,030 - Open URL  -INFO - Opening URL ...
-2022-05-06 17:51:18,031 - Open URL  -INFO - Open URL = http://www.musala.com/
-2022-05-06 17:51:42,421 - Scroll down to the end of page -INFO - Scroll down to the end of page
-2022-05-06 17:51:42,606 - Click Element -INFO - Contact Us is Displayed successfully
-2022-05-06 17:51:42,799 - Click Element -INFO - click on Contact Us
-2022-05-06 17:51:43,167 - Set Element Text -INFO - name is Displayed successfully
-2022-05-06 17:51:43,350 - Set Element Text -INFO - Set name : dina
-2022-05-06 17:51:43,410 - Set Element Text -INFO - Email is Displayed successfully
-2022-05-06 17:51:43,574 - Set Element Text -INFO - Set Email : dina6732
-2022-05-06 17:51:43,634 - Set Element Text -INFO - Subject is Displayed successfully
-2022-05-06 17:51:43,755 - Set Element Text -INFO - Set Subject : issue
-2022-05-06 17:51:43,799 - Set Element Text -INFO - Message is Displayed successfully
-2022-05-06 17:51:43,917 - Set Element Text -INFO - Set Message : hello, how
-2022-05-06 17:51:43,959 - Switch to frame  -INFO - Frame is Displayed successfully
-2022-05-06 17:51:44,009 - Switch to frame  -INFO - Switch to frame
-2022-05-06 17:51:44,128 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
-2022-05-06 17:51:44,285 - Click Element -INFO - click on reCaptcha Checkbox
-2022-05-06 17:51:44,304 - Switch to window  -INFO - Switch to window Window
-2022-05-06 17:51:44,346 - Click Element  -INFO - Send button is Displayed successfully
-2022-05-06 17:51:44,442 - Click Element  -INFO - Click on Send button
-2022-05-06 17:51:45,189 - Get Text From Element  -INFO - email error Message is Displayed successfully
-2022-05-06 17:51:45,242 - Get Text From Element  -INFO - Get Text From  email error Message
-2022-05-06 17:51:45,247 - Open URL  -INFO - ============== TestCase 1 -  End ==============
-2022-05-06 17:51:45,472 - Open URL  -INFO - ============== TestCase 1 -  Start ==============
-2022-05-06 17:51:45,472 - Open URL  -INFO - Opening URL ...
-2022-05-06 17:51:45,473 - Open URL  -INFO - Open URL = http://www.musala.com/
-2022-05-06 17:51:47,847 - Scroll down to the end of page -INFO - Scroll down to the end of page
-2022-05-06 17:51:48,117 - Click Element -INFO - Contact Us is Displayed successfully
-2022-05-06 17:51:48,230 - Click Element -INFO - click on Contact Us
-2022-05-06 17:51:48,285 - Set Element Text -INFO - name is Displayed successfully
-2022-05-06 17:51:48,452 - Set Element Text -INFO - Set name : dina
-2022-05-06 17:51:48,558 - Set Element Text -INFO - Email is Displayed successfully
-2022-05-06 17:51:48,717 - Set Element Text -INFO - Set Email : dina23@
-2022-05-06 17:51:48,759 - Set Element Text -INFO - Subject is Displayed successfully
-2022-05-06 17:51:48,898 - Set Element Text -INFO - Set Subject : issue
-2022-05-06 17:51:48,943 - Set Element Text -INFO - Message is Displayed successfully
-2022-05-06 17:51:49,084 - Set Element Text -INFO - Set Message : hello, how
-2022-05-06 17:51:49,134 - Switch to frame  -INFO - Frame is Displayed successfully
-2022-05-06 17:51:49,194 - Switch to frame  -INFO - Switch to frame
-2022-05-06 17:51:49,305 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
-2022-05-06 17:51:49,418 - Click Element -INFO - click on reCaptcha Checkbox
-2022-05-06 17:51:49,430 - Switch to window  -INFO - Switch to window Window
-2022-05-06 17:51:49,474 - Click Element  -INFO - Send button is Displayed successfully
-2022-05-06 17:51:49,594 - Click Element  -INFO - Click on Send button
-2022-05-06 17:51:50,379 - Get Text From Element  -INFO - email error Message is Displayed successfully
-2022-05-06 17:51:50,453 - Get Text From Element  -INFO - Get Text From  email error Message
-2022-05-06 17:51:50,454 - Open URL  -INFO - ============== TestCase 1 -  End ==============
-2022-05-06 17:51:50,508 - Open URL  -INFO - ============== TestCase 1 -  Start ==============
-2022-05-06 17:51:50,510 - Open URL  -INFO - Opening URL ...
-2022-05-06 17:51:50,510 - Open URL  -INFO - Open URL = http://www.musala.com/
-2022-05-06 17:51:52,466 - Scroll down to the end of page -INFO - Scroll down to the end of page
-2022-05-06 17:51:52,700 - Click Element -INFO - Contact Us is Displayed successfully
-2022-05-06 17:51:52,824 - Click Element -INFO - click on Contact Us
-2022-05-06 17:51:52,863 - Set Element Text -INFO - name is Displayed successfully
-2022-05-06 17:51:53,175 - Set Element Text -INFO - Set name : dina
-2022-05-06 17:51:53,206 - Set Element Text -INFO - Email is Displayed successfully
-2022-05-06 17:51:53,355 - Set Element Text -INFO - Set Email : dina23@gmail
-2022-05-06 17:51:53,392 - Set Element Text -INFO - Subject is Displayed successfully
-2022-05-06 17:51:53,535 - Set Element Text -INFO - Set Subject : issue
-2022-05-06 17:51:53,578 - Set Element Text -INFO - Message is Displayed successfully
-2022-05-06 17:51:53,722 - Set Element Text -INFO - Set Message : hello, how
-2022-05-06 17:51:53,759 - Switch to frame  -INFO - Frame is Displayed successfully
-2022-05-06 17:51:53,807 - Switch to frame  -INFO - Switch to frame
-2022-05-06 17:51:53,914 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
-2022-05-06 17:51:54,021 - Click Element -INFO - click on reCaptcha Checkbox
-2022-05-06 17:51:54,037 - Switch to window  -INFO - Switch to window Window
-2022-05-06 17:51:54,087 - Click Element  -INFO - Send button is Displayed successfully
-2022-05-06 17:51:54,204 - Click Element  -INFO - Click on Send button
-2022-05-06 17:51:59,801 - Get Text From Element  -INFO - email error Message is Displayed successfully
-2022-05-06 17:51:59,834 - Get Text From Element  -INFO - Get Text From  email error Message
-2022-05-06 17:51:59,834 - Open URL  -INFO - ============== TestCase 1 -  End ==============
-2022-05-06 17:51:59,851 - Open URL  -INFO - ============== TestCase 1 -  Start ==============
-2022-05-06 17:51:59,851 - Open URL  -INFO - Opening URL ...
-2022-05-06 17:51:59,851 - Open URL  -INFO - Open URL = http://www.musala.com/
-2022-05-06 17:52:02,052 - Scroll down to the end of page -INFO - Scroll down to the end of page
-2022-05-06 17:52:02,169 - Click Element -INFO - Contact Us is Displayed successfully
-2022-05-06 17:52:02,284 - Click Element -INFO - click on Contact Us
-2022-05-06 17:52:02,320 - Set Element Text -INFO - name is Displayed successfully
-2022-05-06 17:52:02,641 - Set Element Text -INFO - Set name : dina
-2022-05-06 17:52:02,674 - Set Element Text -INFO - Email is Displayed successfully
-2022-05-06 17:52:02,835 - Set Element Text -INFO - Set Email : dina23@gmailcom
-2022-05-06 17:52:02,875 - Set Element Text -INFO - Subject is Displayed successfully
-2022-05-06 17:52:03,005 - Set Element Text -INFO - Set Subject : issue
-2022-05-06 17:52:03,047 - Set Element Text -INFO - Message is Displayed successfully
-2022-05-06 17:52:03,185 - Set Element Text -INFO - Set Message : hello, how
-2022-05-06 17:52:03,217 - Switch to frame  -INFO - Frame is Displayed successfully
-2022-05-06 17:52:03,268 - Switch to frame  -INFO - Switch to frame
-2022-05-06 17:52:03,385 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
-2022-05-06 17:52:03,504 - Click Element -INFO - click on reCaptcha Checkbox
-2022-05-06 17:52:03,530 - Switch to window  -INFO - Switch to window Window
-2022-05-06 17:52:03,583 - Click Element  -INFO - Send button is Displayed successfully
-2022-05-06 17:52:03,729 - Click Element  -INFO - Click on Send button
-2022-05-06 17:52:04,535 - Get Text From Element  -INFO - email error Message is Displayed successfully
-2022-05-06 17:52:04,579 - Get Text From Element  -INFO - Get Text From  email error Message
-2022-05-06 17:52:04,579 - Open URL  -INFO - ============== TestCase 1 -  End ==============
-2022-05-06 17:52:04,592 - Open URL  -INFO - ============== TestCase 1 -  Start ==============
-2022-05-06 17:52:04,592 - Open URL  -INFO - Opening URL ...
-2022-05-06 17:52:04,593 - Open URL  -INFO - Open URL = http://www.musala.com/
-2022-05-06 17:52:06,669 - Scroll down to the end of page -INFO - Scroll down to the end of page
-2022-05-06 17:52:06,852 - Click Element -INFO - Contact Us is Displayed successfully
-2022-05-06 17:52:06,969 - Click Element -INFO - click on Contact Us
-2022-05-06 17:52:07,005 - Set Element Text -INFO - name is Displayed successfully
-2022-05-06 17:52:07,323 - Set Element Text -INFO - Set name : dina
-2022-05-06 17:52:07,353 - Set Element Text -INFO - Email is Displayed successfully
-2022-05-06 17:52:07,483 - Set Element Text -INFO - Set Email : dina23@gmail.
-2022-05-06 17:52:07,519 - Set Element Text -INFO - Subject is Displayed successfully
-2022-05-06 17:52:07,650 - Set Element Text -INFO - Set Subject : issue
-2022-05-06 17:52:07,681 - Set Element Text -INFO - Message is Displayed successfully
-2022-05-06 17:52:07,832 - Set Element Text -INFO - Set Message : hello, how
-2022-05-06 17:52:07,875 - Switch to frame  -INFO - Frame is Displayed successfully
-2022-05-06 17:52:07,940 - Switch to frame  -INFO - Switch to frame
-2022-05-06 17:52:08,051 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
-2022-05-06 17:52:08,152 - Click Element -INFO - click on reCaptcha Checkbox
-2022-05-06 17:52:08,161 - Switch to window  -INFO - Switch to window Window
-2022-05-06 17:52:08,208 - Click Element  -INFO - Send button is Displayed successfully
-2022-05-06 17:52:08,339 - Click Element  -INFO - Click on Send button
-2022-05-06 17:52:09,071 - Get Text From Element  -INFO - email error Message is Displayed successfully
-2022-05-06 17:52:09,105 - Get Text From Element  -INFO - Get Text From  email error Message
-2022-05-06 17:52:09,106 - Open URL  -INFO - ============== TestCase 1 -  End ==============
-2022-05-06 17:52:09,118 - Open URL  -INFO - Open the Excel file
-2022-05-06 17:52:09,325 - Open URL  -INFO - ============== TestCase 2 -  Start ==============
-2022-05-06 17:52:09,325 - Open URL  -INFO - Opening URL ...
-2022-05-06 17:52:09,326 - Open URL  -INFO - Open URL = http://www.musala.com/
-2022-05-06 17:52:11,589 - Click Element -INFO - company is Displayed successfully
-2022-05-06 17:52:13,573 - Click Element -INFO - click on company
-2022-05-06 17:52:13,658 - Click Element -INFO - leadership is Displayed successfully
-2022-05-06 17:52:13,754 - Click Element -INFO - company is Displayed successfully
-2022-05-06 17:52:13,815 - Click Element -INFO - click on company
-2022-05-06 17:52:13,872 - Switch to window  -INFO - Switch to window Musala facebook page 
-2022-05-06 17:52:13,904 - Switch to window  -INFO - Switch to window Musala facebook page 
-2022-05-06 17:52:15,676 - Get Currenr URL -INFO - profile Picture is Displayed successfully
-2022-05-06 17:52:15,715 - Switch to window  -INFO - Switch to window Company page 
-2022-05-06 17:52:15,716 - Open URL  -INFO - ============== TestCase 2 -  End ==============
-2022-05-06 17:52:15,728 - Open URL  -INFO - Open the Excel file
-2022-05-06 17:52:16,131 - Open URL  -INFO - ============== TestCase 3 -  Start ==============
-2022-05-06 17:52:16,132 - Open URL  -INFO - Opening URL ...
-2022-05-06 17:52:16,132 - Open URL  -INFO - Open URL = http://www.musala.com/
-2022-05-06 17:52:18,328 - Click Element -INFO - Careers is Displayed successfully
-2022-05-06 17:52:21,736 - Click Element -INFO - click on Careers
-2022-05-06 17:52:21,871 - Click Element  -INFO -  check Open Positions Button is Displayed successfully
-2022-05-06 17:52:25,139 - Click Element  -INFO - Click on  check Open Positions Button
-2022-05-06 17:52:25,227 - Click Element -INFO - Location dropdown list is Displayed successfully
-2022-05-06 17:52:25,259 - Click Element -INFO - click on Location dropdown list
-2022-05-06 17:52:27,512 - Click Element -INFO - Select Location dropdown list :  Anywhere
-2022-05-06 17:52:29,776 - Click Element -INFO - responsibilities Section is Displayed successfully
-2022-05-06 17:52:29,873 - Click Element -INFO - general Description section  is Displayed successfully
-2022-05-06 17:52:29,914 - Click Element -INFO - requirements Section is Displayed successfully
-2022-05-06 17:52:29,948 - Click Element -INFO - what We Offer section is Displayed successfully
-2022-05-06 17:52:30,023 - Click Element -INFO - apply Button  is Displayed successfully
-2022-05-06 17:52:30,102 - Click Element -INFO - apply Button Button is Displayed successfully
-2022-05-06 17:52:30,211 - Click Element -INFO - click on apply Button Button
-2022-05-06 17:52:30,244 - Set Element Text -INFO - name is Displayed successfully
-2022-05-06 17:52:30,584 - Set Element Text -INFO - Set name : hagar
-2022-05-06 17:52:30,622 - Set Element Text -INFO - Email is Displayed successfully
-2022-05-06 17:52:30,724 - Set Element Text -INFO - Set Email : haga@
-2022-05-06 17:52:30,756 - Set Element Text -INFO - Mobile is Displayed successfully
-2022-05-06 17:52:30,887 - Set Element Text -INFO - Set Mobile : 11434305535
-2022-05-06 17:52:30,938 - Set Element Text -INFO - cv is Displayed successfully
-2022-05-06 17:52:31,127 - Set Element Text -INFO - Set cv : D:\eclipse\Musala\Source\files\cv.docx
-2022-05-06 17:52:31,174 - Set Element Text -INFO - linkedin URL is Displayed successfully
-2022-05-06 17:52:31,322 - Set Element Text -INFO - Set linkedin URL : Linkedin.com/hagar
-2022-05-06 17:52:31,358 - Set Element Text -INFO - message is Displayed successfully
-2022-05-06 17:52:31,454 - Set Element Text -INFO - Set message : thank you
-2022-05-06 17:52:31,490 - Click Element  -INFO - agree Checkbox is Displayed successfully
-2022-05-06 17:52:31,565 - Click Element  -INFO - Click on agree Checkbox
-2022-05-06 17:52:31,600 - Switch to frame  -INFO - Frame is Displayed successfully
-2022-05-06 17:52:31,643 - Switch to frame  -INFO - Switch to frame
-2022-05-06 17:52:31,747 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
-2022-05-06 17:52:31,855 - Click Element -INFO - click on reCaptcha Checkbox
-2022-05-06 17:52:31,865 - Switch to window  -INFO - Switch to window Window
-2022-05-06 17:52:31,902 - Click Element  -INFO - Send button is Displayed successfully
-2022-05-06 17:52:32,044 - Click Element  -INFO - Click on Send button
-2022-05-06 17:52:32,100 - Click Element -INFO - Close button is Displayed successfully
-2022-05-06 17:52:32,131 - Click Element -INFO - click on Close button
-2022-05-06 17:52:32,739 - Get Text From Element  -INFO - email error Message is Displayed successfully
-2022-05-06 17:52:32,777 - Get Text From Element  -INFO - Get Text From  email error Message
-2022-05-06 17:52:32,777 - Open URL  -INFO - ============== TestCase 3 -  End ==============
-2022-05-06 17:52:32,802 - Open URL  -INFO - ============== TestCase 3 -  Start ==============
-2022-05-06 17:52:32,803 - Open URL  -INFO - Opening URL ...
-2022-05-06 17:52:32,803 - Open URL  -INFO - Open URL = http://www.musala.com/
-2022-05-06 17:52:34,971 - Click Element -INFO - Careers is Displayed successfully
-2022-05-06 17:52:37,803 - Click Element -INFO - click on Careers
-2022-05-06 17:52:38,123 - Click Element  -INFO -  check Open Positions Button is Displayed successfully
-2022-05-06 17:52:40,650 - Click Element  -INFO - Click on  check Open Positions Button
-2022-05-06 17:52:40,701 - Click Element -INFO - Location dropdown list is Displayed successfully
-2022-05-06 17:52:40,763 - Click Element -INFO - click on Location dropdown list
-2022-05-06 17:52:43,095 - Click Element -INFO - Select Location dropdown list :  Anywhere
-2022-05-06 17:52:45,173 - Click Element -INFO - responsibilities Section is Displayed successfully
-2022-05-06 17:52:45,239 - Click Element -INFO - general Description section  is Displayed successfully
-2022-05-06 17:52:45,275 - Click Element -INFO - requirements Section is Displayed successfully
-2022-05-06 17:52:45,313 - Click Element -INFO - what We Offer section is Displayed successfully
-2022-05-06 17:52:45,374 - Click Element -INFO - apply Button  is Displayed successfully
-2022-05-06 17:52:45,450 - Click Element -INFO - apply Button Button is Displayed successfully
-2022-05-06 17:52:45,546 - Click Element -INFO - click on apply Button Button
-2022-05-06 17:52:45,584 - Set Element Text -INFO - name is Displayed successfully
-2022-05-06 17:52:45,845 - Set Element Text -INFO - Set name : 
-2022-05-06 17:52:45,909 - Set Element Text -INFO - Email is Displayed successfully
-2022-05-06 17:52:46,038 - Set Element Text -INFO - Set Email : hraga@gmail.com
-2022-05-06 17:52:46,074 - Set Element Text -INFO - Mobile is Displayed successfully
-2022-05-06 17:52:46,190 - Set Element Text -INFO - Set Mobile : 11434305535
-2022-05-06 17:52:46,225 - Set Element Text -INFO - cv is Displayed successfully
-2022-05-06 17:52:46,390 - Set Element Text -INFO - Set cv : D:\eclipse\Musala\Source\files\cv.docx
-2022-05-06 17:52:46,435 - Set Element Text -INFO - linkedin URL is Displayed successfully
-2022-05-06 17:52:46,577 - Set Element Text -INFO - Set linkedin URL : Linkedin.com/hagar
-2022-05-06 17:52:46,616 - Set Element Text -INFO - message is Displayed successfully
-2022-05-06 17:52:46,736 - Set Element Text -INFO - Set message : thank you
-2022-05-06 17:52:46,770 - Click Element  -INFO - agree Checkbox is Displayed successfully
-2022-05-06 17:52:46,848 - Click Element  -INFO - Click on agree Checkbox
-2022-05-06 17:52:46,893 - Switch to frame  -INFO - Frame is Displayed successfully
-2022-05-06 17:52:46,933 - Switch to frame  -INFO - Switch to frame
-2022-05-06 17:52:47,037 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
-2022-05-06 17:52:47,140 - Click Element -INFO - click on reCaptcha Checkbox
-2022-05-06 17:52:47,149 - Switch to window  -INFO - Switch to window Window
-2022-05-06 17:52:47,180 - Click Element  -INFO - Send button is Displayed successfully
-2022-05-06 17:52:47,306 - Click Element  -INFO - Click on Send button
-2022-05-06 17:52:47,356 - Click Element -INFO - Close button is Displayed successfully
-2022-05-06 17:52:47,382 - Click Element -INFO - click on Close button
-2022-05-06 17:52:48,089 - Get Text From Element  -INFO - email error Message is Displayed successfully
-2022-05-06 17:52:48,179 - Get Text From Element  -INFO - Get Text From  email error Message
-2022-05-06 17:52:48,182 - Open URL  -INFO - ============== TestCase 3 -  End ==============
-2022-05-06 17:52:48,234 - Open URL  -INFO - ============== TestCase 3 -  Start ==============
-2022-05-06 17:52:48,235 - Open URL  -INFO - Opening URL ...
-2022-05-06 17:52:48,236 - Open URL  -INFO - Open URL = http://www.musala.com/
-2022-05-06 17:52:50,501 - Click Element -INFO - Careers is Displayed successfully
-2022-05-06 17:52:53,092 - Click Element -INFO - click on Careers
-2022-05-06 17:52:53,178 - Click Element  -INFO -  check Open Positions Button is Displayed successfully
-2022-05-06 17:52:55,543 - Click Element  -INFO - Click on  check Open Positions Button
-2022-05-06 17:52:55,692 - Click Element -INFO - Location dropdown list is Displayed successfully
-2022-05-06 17:52:55,716 - Click Element -INFO - click on Location dropdown list
-2022-05-06 17:52:57,905 - Click Element -INFO - Select Location dropdown list :  Anywhere
-2022-05-06 17:53:00,009 - Click Element -INFO - responsibilities Section is Displayed successfully
-2022-05-06 17:53:00,053 - Click Element -INFO - general Description section  is Displayed successfully
-2022-05-06 17:53:00,086 - Click Element -INFO - requirements Section is Displayed successfully
-2022-05-06 17:53:00,120 - Click Element -INFO - what We Offer section is Displayed successfully
-2022-05-06 17:53:00,184 - Click Element -INFO - apply Button  is Displayed successfully
-2022-05-06 17:53:00,261 - Click Element -INFO - apply Button Button is Displayed successfully
-2022-05-06 17:53:00,371 - Click Element -INFO - click on apply Button Button
-2022-05-06 17:53:00,412 - Set Element Text -INFO - name is Displayed successfully
-2022-05-06 17:53:00,727 - Set Element Text -INFO - Set name : hagar
-2022-05-06 17:53:00,761 - Set Element Text -INFO - Email is Displayed successfully
-2022-05-06 17:53:00,900 - Set Element Text -INFO - Set Email : hagar@gmail.com
-2022-05-06 17:53:00,932 - Set Element Text -INFO - Mobile is Displayed successfully
-2022-05-06 17:53:01,035 - Set Element Text -INFO - Set Mobile : 
-2022-05-06 17:53:01,069 - Set Element Text -INFO - cv is Displayed successfully
-2022-05-06 17:53:01,241 - Set Element Text -INFO - Set cv : D:\eclipse\Musala\Source\files\cv.docx
-2022-05-06 17:53:01,274 - Set Element Text -INFO - linkedin URL is Displayed successfully
-2022-05-06 17:53:01,415 - Set Element Text -INFO - Set linkedin URL : Linkedin.com/hagar
-2022-05-06 17:53:01,456 - Set Element Text -INFO - message is Displayed successfully
-2022-05-06 17:53:01,559 - Set Element Text -INFO - Set message : thank you
-2022-05-06 17:53:01,595 - Click Element  -INFO - agree Checkbox is Displayed successfully
-2022-05-06 17:53:01,689 - Click Element  -INFO - Click on agree Checkbox
-2022-05-06 17:53:01,744 - Switch to frame  -INFO - Frame is Displayed successfully
-2022-05-06 17:53:01,790 - Switch to frame  -INFO - Switch to frame
-2022-05-06 17:53:01,888 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
-2022-05-06 17:53:01,982 - Click Element -INFO - click on reCaptcha Checkbox
-2022-05-06 17:53:01,993 - Switch to window  -INFO - Switch to window Window
-2022-05-06 17:53:02,027 - Click Element  -INFO - Send button is Displayed successfully
-2022-05-06 17:53:02,137 - Click Element  -INFO - Click on Send button
-2022-05-06 17:53:02,199 - Click Element -INFO - Close button is Displayed successfully
-2022-05-06 17:53:02,227 - Click Element -INFO - click on Close button
-2022-05-06 17:53:02,874 - Get Text From Element  -INFO - email error Message is Displayed successfully
-2022-05-06 17:53:02,909 - Get Text From Element  -INFO - Get Text From  email error Message
-2022-05-06 17:53:02,910 - Open URL  -INFO - ============== TestCase 3 -  End ==============
-2022-05-06 17:53:02,919 - Open URL  -INFO - Open the Excel file
-2022-05-06 17:53:03,194 - Open URL  -INFO - ============== TestCase 4 -  Start ==============
-2022-05-06 17:53:03,195 - Open URL  -INFO - Opening URL ...
-2022-05-06 17:53:03,196 - Open URL  -INFO - Open URL = http://www.musala.com/
-2022-05-06 17:53:05,438 - Click Element -INFO - Careers is Displayed successfully
-2022-05-06 17:53:08,407 - Click Element -INFO - click on Careers
-2022-05-06 17:53:08,504 - Click Element  -INFO -  check Open Positions Button is Displayed successfully
-2022-05-06 17:53:11,035 - Click Element  -INFO - Click on  check Open Positions Button
-2022-05-06 17:53:11,113 - Click Element -INFO - Location dropdown list is Displayed successfully
-2022-05-06 17:53:11,131 - Click Element -INFO - click on Location dropdown list
-2022-05-06 17:53:13,499 - Click Element -INFO - Select Location dropdown list :  Sofia
-2022-05-06 17:53:14,672 - Open URL  -INFO - ============== TestCase 4 -  End ==============
-2022-05-06 17:53:14,710 - Open URL  -INFO - ============== TestCase 4 -  Start ==============
-2022-05-06 17:53:14,710 - Open URL  -INFO - Opening URL ...
-2022-05-06 17:53:14,710 - Open URL  -INFO - Open URL = http://www.musala.com/
-2022-05-06 17:53:16,998 - Click Element -INFO - Careers is Displayed successfully
-2022-05-06 17:53:19,709 - Click Element -INFO - click on Careers
-2022-05-06 17:53:19,811 - Click Element  -INFO -  check Open Positions Button is Displayed successfully
-2022-05-06 17:53:22,324 - Click Element  -INFO - Click on  check Open Positions Button
-2022-05-06 17:53:22,432 - Click Element -INFO - Location dropdown list is Displayed successfully
-2022-05-06 17:53:22,462 - Click Element -INFO - click on Location dropdown list
-2022-05-06 17:53:24,796 - Click Element -INFO - Select Location dropdown list :  Skopje
-2022-05-06 17:53:25,732 - Open URL  -INFO - ============== TestCase 4 -  End ==============
-2022-05-06 17:53:26,402 - Close browser  -INFO - Close Browser ...
+2022-05-06 18:12:41,866 - Open browser  -INFO - Open the Excel file
+2022-05-06 18:12:43,911 - Open browser  -INFO - ============== TestCase 1 -  Start ==============
+2022-05-06 18:12:43,912 - Open URL  -INFO - Opening URL ...
+2022-05-06 18:12:43,913 - Open URL  -INFO - Open URL = http://www.musala.com/
+2022-05-06 18:13:12,888 - Scroll down to the end of page -INFO - Scroll down to the end of page
+2022-05-06 18:13:13,059 - Click Element -INFO - Contact Us is Displayed successfully
+2022-05-06 18:13:13,298 - Click Element -INFO - click on Contact Us
+2022-05-06 18:13:13,657 - Set Element Text -INFO - name is Displayed successfully
+2022-05-06 18:13:13,798 - Set Element Text -INFO - Set name : dina
+2022-05-06 18:13:13,842 - Set Element Text -INFO - Email is Displayed successfully
+2022-05-06 18:13:13,989 - Set Element Text -INFO - Set Email : dina6732
+2022-05-06 18:13:14,030 - Set Element Text -INFO - Subject is Displayed successfully
+2022-05-06 18:13:14,135 - Set Element Text -INFO - Set Subject : issue
+2022-05-06 18:13:14,187 - Set Element Text -INFO - Message is Displayed successfully
+2022-05-06 18:13:14,303 - Set Element Text -INFO - Set Message : hello, how
+2022-05-06 18:13:14,345 - Switch to frame  -INFO - Frame is Displayed successfully
+2022-05-06 18:13:14,390 - Switch to frame  -INFO - Switch to frame
+2022-05-06 18:13:14,475 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
+2022-05-06 18:13:14,623 - Click Element -INFO - click on reCaptcha Checkbox
+2022-05-06 18:13:14,645 - Switch to window  -INFO - Switch to window Window
+2022-05-06 18:13:14,689 - Click Element  -INFO - Send button is Displayed successfully
+2022-05-06 18:13:14,783 - Click Element  -INFO - Click on Send button
+2022-05-06 18:13:15,403 - Get Text From Element  -INFO - email error Message is Displayed successfully
+2022-05-06 18:13:15,442 - Get Text From Element  -INFO - Get Text From  email error Message
+2022-05-06 18:13:15,444 - Open URL  -INFO - ============== TestCase 1 -  End ==============
+2022-05-06 18:13:15,561 - Open URL  -INFO - ============== TestCase 1 -  Start ==============
+2022-05-06 18:13:15,562 - Open URL  -INFO - Opening URL ...
+2022-05-06 18:13:15,562 - Open URL  -INFO - Open URL = http://www.musala.com/
+2022-05-06 18:13:17,959 - Scroll down to the end of page -INFO - Scroll down to the end of page
+2022-05-06 18:13:18,183 - Click Element -INFO - Contact Us is Displayed successfully
+2022-05-06 18:13:18,297 - Click Element -INFO - click on Contact Us
+2022-05-06 18:13:18,339 - Set Element Text -INFO - name is Displayed successfully
+2022-05-06 18:13:18,720 - Set Element Text -INFO - Set name : dina
+2022-05-06 18:13:18,755 - Set Element Text -INFO - Email is Displayed successfully
+2022-05-06 18:13:18,900 - Set Element Text -INFO - Set Email : dina23@
+2022-05-06 18:13:18,934 - Set Element Text -INFO - Subject is Displayed successfully
+2022-05-06 18:13:19,041 - Set Element Text -INFO - Set Subject : issue
+2022-05-06 18:13:19,071 - Set Element Text -INFO - Message is Displayed successfully
+2022-05-06 18:13:19,187 - Set Element Text -INFO - Set Message : hello, how
+2022-05-06 18:13:19,222 - Switch to frame  -INFO - Frame is Displayed successfully
+2022-05-06 18:13:19,270 - Switch to frame  -INFO - Switch to frame
+2022-05-06 18:13:19,354 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
+2022-05-06 18:13:19,462 - Click Element -INFO - click on reCaptcha Checkbox
+2022-05-06 18:13:19,498 - Switch to window  -INFO - Switch to window Window
+2022-05-06 18:13:19,530 - Click Element  -INFO - Send button is Displayed successfully
+2022-05-06 18:13:19,639 - Click Element  -INFO - Click on Send button
+2022-05-06 18:13:20,261 - Get Text From Element  -INFO - email error Message is Displayed successfully
+2022-05-06 18:13:20,293 - Get Text From Element  -INFO - Get Text From  email error Message
+2022-05-06 18:13:20,293 - Open URL  -INFO - ============== TestCase 1 -  End ==============
+2022-05-06 18:13:20,316 - Open URL  -INFO - ============== TestCase 1 -  Start ==============
+2022-05-06 18:13:20,316 - Open URL  -INFO - Opening URL ...
+2022-05-06 18:13:20,316 - Open URL  -INFO - Open URL = http://www.musala.com/
+2022-05-06 18:13:22,290 - Scroll down to the end of page -INFO - Scroll down to the end of page
+2022-05-06 18:13:22,521 - Click Element -INFO - Contact Us is Displayed successfully
+2022-05-06 18:13:22,629 - Click Element -INFO - click on Contact Us
+2022-05-06 18:13:22,666 - Set Element Text -INFO - name is Displayed successfully
+2022-05-06 18:13:22,880 - Set Element Text -INFO - Set name : dina
+2022-05-06 18:13:22,916 - Set Element Text -INFO - Email is Displayed successfully
+2022-05-06 18:13:23,074 - Set Element Text -INFO - Set Email : dina23@gmail
+2022-05-06 18:13:23,107 - Set Element Text -INFO - Subject is Displayed successfully
+2022-05-06 18:13:23,248 - Set Element Text -INFO - Set Subject : issue
+2022-05-06 18:13:23,288 - Set Element Text -INFO - Message is Displayed successfully
+2022-05-06 18:13:23,438 - Set Element Text -INFO - Set Message : hello, how
+2022-05-06 18:13:23,471 - Switch to frame  -INFO - Frame is Displayed successfully
+2022-05-06 18:13:23,518 - Switch to frame  -INFO - Switch to frame
+2022-05-06 18:13:23,631 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
+2022-05-06 18:13:23,744 - Click Element -INFO - click on reCaptcha Checkbox
+2022-05-06 18:13:23,759 - Switch to window  -INFO - Switch to window Window
+2022-05-06 18:13:23,799 - Click Element  -INFO - Send button is Displayed successfully
+2022-05-06 18:13:23,932 - Click Element  -INFO - Click on Send button
+2022-05-06 18:13:24,643 - Get Text From Element  -INFO - email error Message is Displayed successfully
+2022-05-06 18:13:24,687 - Get Text From Element  -INFO - Get Text From  email error Message
+2022-05-06 18:13:24,687 - Open URL  -INFO - ============== TestCase 1 -  End ==============
+2022-05-06 18:13:24,701 - Open URL  -INFO - ============== TestCase 1 -  Start ==============
+2022-05-06 18:13:24,701 - Open URL  -INFO - Opening URL ...
+2022-05-06 18:13:24,701 - Open URL  -INFO - Open URL = http://www.musala.com/
+2022-05-06 18:13:26,794 - Scroll down to the end of page -INFO - Scroll down to the end of page
+2022-05-06 18:13:27,043 - Click Element -INFO - Contact Us is Displayed successfully
+2022-05-06 18:13:27,142 - Click Element -INFO - click on Contact Us
+2022-05-06 18:13:27,184 - Set Element Text -INFO - name is Displayed successfully
+2022-05-06 18:13:27,485 - Set Element Text -INFO - Set name : dina
+2022-05-06 18:13:27,521 - Set Element Text -INFO - Email is Displayed successfully
+2022-05-06 18:13:27,684 - Set Element Text -INFO - Set Email : dina23@gmailcom
+2022-05-06 18:13:27,725 - Set Element Text -INFO - Subject is Displayed successfully
+2022-05-06 18:13:27,842 - Set Element Text -INFO - Set Subject : issue
+2022-05-06 18:13:27,882 - Set Element Text -INFO - Message is Displayed successfully
+2022-05-06 18:13:27,996 - Set Element Text -INFO - Set Message : hello, how
+2022-05-06 18:13:28,032 - Switch to frame  -INFO - Frame is Displayed successfully
+2022-05-06 18:13:28,089 - Switch to frame  -INFO - Switch to frame
+2022-05-06 18:13:28,203 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
+2022-05-06 18:13:28,322 - Click Element -INFO - click on reCaptcha Checkbox
+2022-05-06 18:13:28,341 - Switch to window  -INFO - Switch to window Window
+2022-05-06 18:13:28,395 - Click Element  -INFO - Send button is Displayed successfully
+2022-05-06 18:13:28,541 - Click Element  -INFO - Click on Send button
+2022-05-06 18:13:29,247 - Get Text From Element  -INFO - email error Message is Displayed successfully
+2022-05-06 18:13:29,276 - Get Text From Element  -INFO - Get Text From  email error Message
+2022-05-06 18:13:29,276 - Open URL  -INFO - ============== TestCase 1 -  End ==============
+2022-05-06 18:13:29,293 - Open URL  -INFO - ============== TestCase 1 -  Start ==============
+2022-05-06 18:13:29,293 - Open URL  -INFO - Opening URL ...
+2022-05-06 18:13:29,294 - Open URL  -INFO - Open URL = http://www.musala.com/
+2022-05-06 18:13:31,542 - Scroll down to the end of page -INFO - Scroll down to the end of page
+2022-05-06 18:13:31,628 - Click Element -INFO - Contact Us is Displayed successfully
+2022-05-06 18:13:31,737 - Click Element -INFO - click on Contact Us
+2022-05-06 18:13:31,769 - Set Element Text -INFO - name is Displayed successfully
+2022-05-06 18:13:32,095 - Set Element Text -INFO - Set name : dina
+2022-05-06 18:13:32,135 - Set Element Text -INFO - Email is Displayed successfully
+2022-05-06 18:13:32,279 - Set Element Text -INFO - Set Email : dina23@gmail.
+2022-05-06 18:13:32,315 - Set Element Text -INFO - Subject is Displayed successfully
+2022-05-06 18:13:32,458 - Set Element Text -INFO - Set Subject : issue
+2022-05-06 18:13:32,500 - Set Element Text -INFO - Message is Displayed successfully
+2022-05-06 18:13:32,640 - Set Element Text -INFO - Set Message : hello, how
+2022-05-06 18:13:32,673 - Switch to frame  -INFO - Frame is Displayed successfully
+2022-05-06 18:13:32,726 - Switch to frame  -INFO - Switch to frame
+2022-05-06 18:13:32,817 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
+2022-05-06 18:13:32,942 - Click Element -INFO - click on reCaptcha Checkbox
+2022-05-06 18:13:32,958 - Switch to window  -INFO - Switch to window Window
+2022-05-06 18:13:32,997 - Click Element  -INFO - Send button is Displayed successfully
+2022-05-06 18:13:33,129 - Click Element  -INFO - Click on Send button
+2022-05-06 18:13:33,749 - Get Text From Element  -INFO - email error Message is Displayed successfully
+2022-05-06 18:13:33,786 - Get Text From Element  -INFO - Get Text From  email error Message
+2022-05-06 18:13:33,787 - Open URL  -INFO - ============== TestCase 1 -  End ==============
+2022-05-06 18:13:33,798 - Open URL  -INFO - Open the Excel file
+2022-05-06 18:13:33,988 - Open URL  -INFO - ============== TestCase 2 -  Start ==============
+2022-05-06 18:13:33,988 - Open URL  -INFO - Opening URL ...
+2022-05-06 18:13:33,988 - Open URL  -INFO - Open URL = http://www.musala.com/
+2022-05-06 18:13:36,190 - Click Element -INFO - company is Displayed successfully
+2022-05-06 18:13:38,180 - Click Element -INFO - click on company
+2022-05-06 18:13:38,268 - Click Element -INFO - leadership is Displayed successfully
+2022-05-06 18:13:38,373 - Click Element -INFO - company is Displayed successfully
+2022-05-06 18:13:38,442 - Click Element -INFO - click on company
+2022-05-06 18:13:38,509 - Switch to window  -INFO - Switch to window Musala facebook page 
+2022-05-06 18:13:38,536 - Switch to window  -INFO - Switch to window Musala facebook page 
+2022-05-06 18:13:40,223 - Get Currenr URL -INFO - profile Picture is Displayed successfully
+2022-05-06 18:13:40,306 - Switch to window  -INFO - Switch to window Company page 
+2022-05-06 18:13:40,307 - Open URL  -INFO - ============== TestCase 2 -  End ==============
+2022-05-06 18:13:40,316 - Open URL  -INFO - Open the Excel file
+2022-05-06 18:13:40,682 - Open URL  -INFO - ============== TestCase 3 -  Start ==============
+2022-05-06 18:13:40,682 - Open URL  -INFO - Opening URL ...
+2022-05-06 18:13:40,683 - Open URL  -INFO - Open URL = http://www.musala.com/
+2022-05-06 18:13:57,199 - Click Element -INFO - Careers is Displayed successfully
+2022-05-06 18:14:00,395 - Click Element -INFO - click on Careers
+2022-05-06 18:14:00,546 - Click Element  -INFO -  check Open Positions Button is Displayed successfully
+2022-05-06 18:14:03,923 - Click Element  -INFO - Click on  check Open Positions Button
+2022-05-06 18:14:04,022 - Click Element -INFO - Location dropdown list is Displayed successfully
+2022-05-06 18:14:04,060 - Click Element -INFO - click on Location dropdown list
+2022-05-06 18:14:06,452 - Click Element -INFO - Select Location dropdown list :  Anywhere
+2022-05-06 18:14:08,694 - Click Element -INFO - responsibilities Section is Displayed successfully
+2022-05-06 18:14:08,765 - Click Element -INFO - general Description section  is Displayed successfully
+2022-05-06 18:14:08,800 - Click Element -INFO - requirements Section is Displayed successfully
+2022-05-06 18:14:08,835 - Click Element -INFO - what We Offer section is Displayed successfully
+2022-05-06 18:14:08,914 - Click Element -INFO - apply Button  is Displayed successfully
+2022-05-06 18:14:08,992 - Click Element -INFO - apply Button Button is Displayed successfully
+2022-05-06 18:14:09,131 - Click Element -INFO - click on apply Button Button
+2022-05-06 18:14:09,204 - Set Element Text -INFO - name is Displayed successfully
+2022-05-06 18:14:09,421 - Set Element Text -INFO - Set name : hagar
+2022-05-06 18:14:09,492 - Set Element Text -INFO - Email is Displayed successfully
+2022-05-06 18:14:09,596 - Set Element Text -INFO - Set Email : haga@
+2022-05-06 18:14:09,630 - Set Element Text -INFO - Mobile is Displayed successfully
+2022-05-06 18:14:09,751 - Set Element Text -INFO - Set Mobile : 11434305535
+2022-05-06 18:14:09,786 - Set Element Text -INFO - cv is Displayed successfully
+2022-05-06 18:14:09,948 - Set Element Text -INFO - Set cv : D:\eclipse\Musala\Source\files\cv.docx
+2022-05-06 18:14:09,992 - Set Element Text -INFO - linkedin URL is Displayed successfully
+2022-05-06 18:14:10,145 - Set Element Text -INFO - Set linkedin URL : Linkedin.com/hagar
+2022-05-06 18:14:10,191 - Set Element Text -INFO - message is Displayed successfully
+2022-05-06 18:14:10,343 - Set Element Text -INFO - Set message : thank you
+2022-05-06 18:14:10,388 - Click Element  -INFO - agree Checkbox is Displayed successfully
+2022-05-06 18:14:10,459 - Click Element  -INFO - Click on agree Checkbox
+2022-05-06 18:14:10,500 - Switch to frame  -INFO - Frame is Displayed successfully
+2022-05-06 18:14:10,539 - Switch to frame  -INFO - Switch to frame
+2022-05-06 18:14:10,631 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
+2022-05-06 18:14:10,740 - Click Element -INFO - click on reCaptcha Checkbox
+2022-05-06 18:14:10,752 - Switch to window  -INFO - Switch to window Window
+2022-05-06 18:14:10,789 - Click Element  -INFO - Send button is Displayed successfully
+2022-05-06 18:14:10,944 - Click Element  -INFO - Click on Send button
+2022-05-06 18:14:11,044 - Click Element -INFO - Close button is Displayed successfully
+2022-05-06 18:14:11,094 - Click Element -INFO - click on Close button
+2022-05-06 18:14:11,745 - Get Text From Element  -INFO - email error Message is Displayed successfully
+2022-05-06 18:14:11,796 - Get Text From Element  -INFO - Get Text From  email error Message
+2022-05-06 18:14:11,796 - Open URL  -INFO - ============== TestCase 3 -  End ==============
+2022-05-06 18:14:11,830 - Open URL  -INFO - ============== TestCase 3 -  Start ==============
+2022-05-06 18:14:11,830 - Open URL  -INFO - Opening URL ...
+2022-05-06 18:14:11,831 - Open URL  -INFO - Open URL = http://www.musala.com/
+2022-05-06 18:14:14,211 - Click Element -INFO - Careers is Displayed successfully
+2022-05-06 18:14:16,965 - Click Element -INFO - click on Careers
+2022-05-06 18:14:17,065 - Click Element  -INFO -  check Open Positions Button is Displayed successfully
+2022-05-06 18:14:19,649 - Click Element  -INFO - Click on  check Open Positions Button
+2022-05-06 18:14:19,720 - Click Element -INFO - Location dropdown list is Displayed successfully
+2022-05-06 18:14:19,740 - Click Element -INFO - click on Location dropdown list
+2022-05-06 18:14:21,982 - Click Element -INFO - Select Location dropdown list :  Anywhere
+2022-05-06 18:14:23,891 - Click Element -INFO - responsibilities Section is Displayed successfully
+2022-05-06 18:14:23,999 - Click Element -INFO - general Description section  is Displayed successfully
+2022-05-06 18:14:24,029 - Click Element -INFO - requirements Section is Displayed successfully
+2022-05-06 18:14:24,067 - Click Element -INFO - what We Offer section is Displayed successfully
+2022-05-06 18:14:24,134 - Click Element -INFO - apply Button  is Displayed successfully
+2022-05-06 18:14:24,216 - Click Element -INFO - apply Button Button is Displayed successfully
+2022-05-06 18:14:24,326 - Click Element -INFO - click on apply Button Button
+2022-05-06 18:14:24,369 - Set Element Text -INFO - name is Displayed successfully
+2022-05-06 18:14:24,722 - Set Element Text -INFO - Set name : 
+2022-05-06 18:14:24,754 - Set Element Text -INFO - Email is Displayed successfully
+2022-05-06 18:14:24,880 - Set Element Text -INFO - Set Email : hraga@gmail.com
+2022-05-06 18:14:24,924 - Set Element Text -INFO - Mobile is Displayed successfully
+2022-05-06 18:14:25,050 - Set Element Text -INFO - Set Mobile : 11434305535
+2022-05-06 18:14:25,083 - Set Element Text -INFO - cv is Displayed successfully
+2022-05-06 18:14:25,248 - Set Element Text -INFO - Set cv : D:\eclipse\Musala\Source\files\cv.docx
+2022-05-06 18:14:25,281 - Set Element Text -INFO - linkedin URL is Displayed successfully
+2022-05-06 18:14:25,495 - Set Element Text -INFO - Set linkedin URL : Linkedin.com/hagar
+2022-05-06 18:14:25,536 - Set Element Text -INFO - message is Displayed successfully
+2022-05-06 18:14:25,632 - Set Element Text -INFO - Set message : thank you
+2022-05-06 18:14:25,677 - Click Element  -INFO - agree Checkbox is Displayed successfully
+2022-05-06 18:14:25,737 - Click Element  -INFO - Click on agree Checkbox
+2022-05-06 18:14:25,776 - Switch to frame  -INFO - Frame is Displayed successfully
+2022-05-06 18:14:25,822 - Switch to frame  -INFO - Switch to frame
+2022-05-06 18:14:25,923 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
+2022-05-06 18:14:26,052 - Click Element -INFO - click on reCaptcha Checkbox
+2022-05-06 18:14:26,068 - Switch to window  -INFO - Switch to window Window
+2022-05-06 18:14:26,140 - Click Element  -INFO - Send button is Displayed successfully
+2022-05-06 18:14:26,263 - Click Element  -INFO - Click on Send button
+2022-05-06 18:14:26,397 - Click Element -INFO - Close button is Displayed successfully
+2022-05-06 18:14:26,430 - Click Element -INFO - click on Close button
+2022-05-06 18:14:27,081 - Get Text From Element  -INFO - email error Message is Displayed successfully
+2022-05-06 18:14:27,129 - Get Text From Element  -INFO - Get Text From  email error Message
+2022-05-06 18:14:27,130 - Open URL  -INFO - ============== TestCase 3 -  End ==============
+2022-05-06 18:14:27,156 - Open URL  -INFO - ============== TestCase 3 -  Start ==============
+2022-05-06 18:14:27,157 - Open URL  -INFO - Opening URL ...
+2022-05-06 18:14:27,157 - Open URL  -INFO - Open URL = http://www.musala.com/
+2022-05-06 18:14:29,410 - Click Element -INFO - Careers is Displayed successfully
+2022-05-06 18:14:31,932 - Click Element -INFO - click on Careers
+2022-05-06 18:14:32,093 - Click Element  -INFO -  check Open Positions Button is Displayed successfully
+2022-05-06 18:14:34,225 - Click Element  -INFO - Click on  check Open Positions Button
+2022-05-06 18:14:34,307 - Click Element -INFO - Location dropdown list is Displayed successfully
+2022-05-06 18:14:34,326 - Click Element -INFO - click on Location dropdown list
+2022-05-06 18:14:36,949 - Click Element -INFO - Select Location dropdown list :  Anywhere
+2022-05-06 18:14:39,147 - Click Element -INFO - responsibilities Section is Displayed successfully
+2022-05-06 18:14:39,178 - Click Element -INFO - general Description section  is Displayed successfully
+2022-05-06 18:14:39,211 - Click Element -INFO - requirements Section is Displayed successfully
+2022-05-06 18:14:39,241 - Click Element -INFO - what We Offer section is Displayed successfully
+2022-05-06 18:14:39,329 - Click Element -INFO - apply Button  is Displayed successfully
+2022-05-06 18:14:39,400 - Click Element -INFO - apply Button Button is Displayed successfully
+2022-05-06 18:14:39,506 - Click Element -INFO - click on apply Button Button
+2022-05-06 18:14:39,546 - Set Element Text -INFO - name is Displayed successfully
+2022-05-06 18:14:39,867 - Set Element Text -INFO - Set name : hagar
+2022-05-06 18:14:39,902 - Set Element Text -INFO - Email is Displayed successfully
+2022-05-06 18:14:40,043 - Set Element Text -INFO - Set Email : hagar@gmail.com
+2022-05-06 18:14:40,071 - Set Element Text -INFO - Mobile is Displayed successfully
+2022-05-06 18:14:40,177 - Set Element Text -INFO - Set Mobile : 
+2022-05-06 18:14:40,214 - Set Element Text -INFO - cv is Displayed successfully
+2022-05-06 18:14:40,407 - Set Element Text -INFO - Set cv : D:\eclipse\Musala\Source\files\cv.docx
+2022-05-06 18:14:40,443 - Set Element Text -INFO - linkedin URL is Displayed successfully
+2022-05-06 18:14:40,607 - Set Element Text -INFO - Set linkedin URL : Linkedin.com/hagar
+2022-05-06 18:14:40,639 - Set Element Text -INFO - message is Displayed successfully
+2022-05-06 18:14:40,767 - Set Element Text -INFO - Set message : thank you
+2022-05-06 18:14:40,797 - Click Element  -INFO - agree Checkbox is Displayed successfully
+2022-05-06 18:14:40,854 - Click Element  -INFO - Click on agree Checkbox
+2022-05-06 18:14:40,913 - Switch to frame  -INFO - Frame is Displayed successfully
+2022-05-06 18:14:40,958 - Switch to frame  -INFO - Switch to frame
+2022-05-06 18:14:41,115 - Click Element -INFO - reCaptcha Checkbox is Displayed successfully
+2022-05-06 18:14:41,230 - Click Element -INFO - click on reCaptcha Checkbox
+2022-05-06 18:14:41,241 - Switch to window  -INFO - Switch to window Window
+2022-05-06 18:14:41,275 - Click Element  -INFO - Send button is Displayed successfully
+2022-05-06 18:14:41,427 - Click Element  -INFO - Click on Send button
+2022-05-06 18:14:41,584 - Click Element -INFO - Close button is Displayed successfully
+2022-05-06 18:14:41,757 - Click Element -INFO - click on Close button
+2022-05-06 18:14:42,423 - Get Text From Element  -INFO - email error Message is Displayed successfully
+2022-05-06 18:14:42,462 - Get Text From Element  -INFO - Get Text From  email error Message
+2022-05-06 18:14:42,463 - Open URL  -INFO - ============== TestCase 3 -  End ==============
+2022-05-06 18:14:42,474 - Open URL  -INFO - Open the Excel file
+2022-05-06 18:14:42,739 - Open URL  -INFO - ============== TestCase 4 -  Start ==============
+2022-05-06 18:14:42,740 - Open URL  -INFO - Opening URL ...
+2022-05-06 18:14:42,740 - Open URL  -INFO - Open URL = http://www.musala.com/
+2022-05-06 18:14:45,166 - Click Element -INFO - Careers is Displayed successfully
+2022-05-06 18:14:47,670 - Click Element -INFO - click on Careers
+2022-05-06 18:14:47,750 - Click Element  -INFO -  check Open Positions Button is Displayed successfully
+2022-05-06 18:14:50,046 - Click Element  -INFO - Click on  check Open Positions Button
+2022-05-06 18:14:50,157 - Click Element -INFO - Location dropdown list is Displayed successfully
+2022-05-06 18:14:50,178 - Click Element -INFO - click on Location dropdown list
+2022-05-06 18:14:57,142 - Click Element -INFO - Select Location dropdown list :  Sofia
+2022-05-06 18:14:58,369 - Open URL  -INFO - ============== TestCase 4 -  End ==============
+2022-05-06 18:14:58,391 - Open URL  -INFO - ============== TestCase 4 -  Start ==============
+2022-05-06 18:14:58,392 - Open URL  -INFO - Opening URL ...
+2022-05-06 18:14:58,392 - Open URL  -INFO - Open URL = http://www.musala.com/
+2022-05-06 18:15:00,653 - Click Element -INFO - Careers is Displayed successfully
+2022-05-06 18:15:03,247 - Click Element -INFO - click on Careers
+2022-05-06 18:15:03,368 - Click Element  -INFO -  check Open Positions Button is Displayed successfully
+2022-05-06 18:15:05,526 - Click Element  -INFO - Click on  check Open Positions Button
+2022-05-06 18:15:05,612 - Click Element -INFO - Location dropdown list is Displayed successfully
+2022-05-06 18:15:05,632 - Click Element -INFO - click on Location dropdown list
+2022-05-06 18:15:07,756 - Click Element -INFO - Select Location dropdown list :  Skopje
+2022-05-06 18:15:08,595 - Open URL  -INFO - ============== TestCase 4 -  End ==============
+2022-05-06 18:15:09,203 - Close browser  -INFO - Close Browser ...
