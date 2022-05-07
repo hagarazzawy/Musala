@@ -37,6 +37,7 @@ public class FacebookPage extends PageBase {
 	}
 	public String getURL()
 	{
+		wait.until(ExpectedConditions.presenceOfAllElementsLocatedBy(profilePictureLink));
 		return GetCurrentURL(driver);
 	}
 	public Boolean IsProfilePicturLinkePresent()
